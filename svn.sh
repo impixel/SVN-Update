@@ -17,7 +17,7 @@ websites=(	"/var/www/vhosts/domain.co.uk/httpdocs/YourPlatform/"
 echo -e "\033[32m
 *********************************************************************
 
-	Welcome to Cube Platform Automatic/Manual Update Software					
+	Welcome to Automatic/Manual Update Software					
 	Author: Hadi Tajallaei <hadi@impixel.com>					
 	Copyright © $DATE IMPIXEL. All rights reserved.
 	Release Date: 1st Jun 2015
