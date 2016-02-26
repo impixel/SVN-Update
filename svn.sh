@@ -3,7 +3,7 @@ clear;
 
 # Variables
 DATE=`date +%Y`;
-SVN_SERVER=https://subversion.assembla.com/svn/cube-platform/trunk;
+SVN_SERVER=https://subversion.assembla.com/svn/platform/trunk;
 SVN_USERNAME=impixel;
 SVN_PASSWORD=askme;
 
